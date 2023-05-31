@@ -1,0 +1,31 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: rgb(217, 255, 252);
+}
+
+#tswift{
+    background-color: deepskyblue;
+    color: rgb(233, 233, 233);
+    width: 28%;
+    font-weight: 500;
+}
+
+canvas{
+    box-shadow: 12px 10px 10px rgb(151, 188, 255);
+    border-radius: 12px;
+}
